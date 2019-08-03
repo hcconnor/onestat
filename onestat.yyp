@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "bec92205-a7c8-4ffb-9011-c39c4fa03647",
+            "Value": {
+                "id": "240c4560-a796-451a-bd1f-8d6c6854c4ce",
+                "resourcePath": "scripts\\basePlayerController\\basePlayerController.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c083a2d2-cf9a-40aa-a67e-31339866f9bb",
             "Value": {
                 "id": "b6b2416d-6973-423d-b49f-89f3037ec188",
@@ -208,7 +216,7 @@
         }
     ],
     "script_order": [
-        
+        "bec92205-a7c8-4ffb-9011-c39c4fa03647"
     ],
     "tutorial": ""
 }
