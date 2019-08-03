@@ -210,7 +210,7 @@
             "Key": "e315e693-ce48-4134-a535-25ed9713f684",
             "Value": {
                 "id": "8a632814-fd86-4540-8927-0968654b3dfd",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\basePlayer\\basePlayer.yy",
                 "resourceType": "GMObject"
             }
         },
