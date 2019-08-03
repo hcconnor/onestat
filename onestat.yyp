@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "bec92205-a7c8-4ffb-9011-c39c4fa03647",
-            "Value": {
-                "id": "240c4560-a796-451a-bd1f-8d6c6854c4ce",
-                "resourcePath": "scripts\\basePlayerController\\basePlayerController.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "c083a2d2-cf9a-40aa-a67e-31339866f9bb",
             "Value": {
                 "id": "b6b2416d-6973-423d-b49f-89f3037ec188",
@@ -199,6 +191,14 @@
             }
         },
         {
+            "Key": "e315e693-ce48-4134-a535-25ed9713f684",
+            "Value": {
+                "id": "8a632814-fd86-4540-8927-0968654b3dfd",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e626d188-8a9a-46a2-b144-c76175dd064c",
             "Value": {
                 "id": "fe0725bf-7624-4024-9abf-9f99dcd452bd",
@@ -216,7 +216,7 @@
         }
     ],
     "script_order": [
-        "bec92205-a7c8-4ffb-9011-c39c4fa03647"
+        
     ],
     "tutorial": ""
 }
