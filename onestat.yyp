@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "59994a8e-1ba8-43b2-9d3b-73bb29abdf0b",
+            "Value": {
+                "id": "6c4fc756-7b84-4ae8-87e7-9b689849311a",
+                "resourcePath": "sprites\\Juan\\Juan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d3f6ce5-503e-4435-8a00-f8197e25945d",
             "Value": {
                 "id": "bb3e6779-2292-4e56-bda6-a07dc577fdd0",
