@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "053223b9-c277-48ae-aaea-d39b41fbfa5e",
+            "Value": {
+                "id": "84f4da47-7975-48f0-bf28-908a7437fc51",
+                "resourcePath": "sprites\\spr_crate\\spr_crate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0ab6c76a-575a-456a-8380-94fda3f1a89e",
             "Value": {
                 "id": "8f75fda3-08cb-4b36-976a-11779ab8961e",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "327cb6e7-667a-43f5-ac25-af14f4545f86",
+            "Value": {
+                "id": "02f261d9-c197-4201-b40b-4e20fd3b2f94",
+                "resourcePath": "sounds\\Yoshi\\Yoshi.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "37209f67-ef3b-448b-8466-689a1bf06204",
             "Value": {
                 "id": "aa61c437-41f5-49fb-bb9c-fa5b48c1b360",
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "64d8bab7-6cce-4b62-a273-b3a92ccc8e0e",
+            "Value": {
+                "id": "b506bc90-5299-403c-9807-a0718d6dccd4",
+                "resourcePath": "sprites\\spr_chest\\spr_chest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6914d5c6-2e67-4e13-ae5d-e1c59e1a76c0",
             "Value": {
                 "id": "d237631d-8710-48ec-8f51-cee2a27af8a2",
@@ -303,10 +327,26 @@
             }
         },
         {
+            "Key": "7b6650ce-7143-4617-b880-1b7b14211575",
+            "Value": {
+                "id": "abb5a49a-97d2-4323-90fd-559bcd9f2374",
+                "resourcePath": "sprites\\spr_sign\\spr_sign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e0f411c-69c0-4612-b5cd-afbcabaccdfc",
             "Value": {
                 "id": "75d407ca-3701-4f38-985a-2c573a2c0862",
                 "resourcePath": "objects\\o_characterSelect\\o_characterSelect.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "867be840-5636-4a7e-b7c3-e699d73bb931",
+            "Value": {
+                "id": "1ae75b46-ea4a-4db2-8a56-7d6bd0b3370b",
+                "resourcePath": "objects\\fortnite\\fortnite.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -316,6 +356,14 @@
                 "id": "f1ba14fe-249e-4d31-b1b6-ac0a877bcfd7",
                 "resourcePath": "sprites\\luckRight\\luckRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8bd0c265-3c0d-4933-8928-f0326c153cce",
+            "Value": {
+                "id": "bd69f572-3da1-42b2-9f0e-a505f15a900c",
+                "resourcePath": "sounds\\fnbb\\fnbb.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -471,10 +519,18 @@
             }
         },
         {
+            "Key": "d6d04077-7445-4ec3-8779-6cf01ede76e2",
+            "Value": {
+                "id": "fb7840c5-6d56-4916-9000-99db3568b5e8",
+                "resourcePath": "sprites\\spr_barrel\\spr_barrel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dd36e3c6-2600-4c61-b5cc-a0c0f087b6a0",
             "Value": {
                 "id": "ff0d4163-572a-41f9-9f92-1c48882cca79",
-                "resourcePath": "objects\\object2\\object2.yy",
+                "resourcePath": "objects\\ChaserAI\\ChaserAI.yy",
                 "resourceType": "GMObject"
             }
         },
