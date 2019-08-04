@@ -306,7 +306,7 @@
             "Key": "dd36e3c6-2600-4c61-b5cc-a0c0f087b6a0",
             "Value": {
                 "id": "ff0d4163-572a-41f9-9f92-1c48882cca79",
-                "resourcePath": "objects\\object2\\object2.yy",
+                "resourcePath": "objects\\AI\\AI.yy",
                 "resourceType": "GMObject"
             }
         },
