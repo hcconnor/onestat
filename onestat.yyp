@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "57e3e77f-5ef5-48e7-a81d-4d1601ab9282",
+            "Value": {
+                "id": "aa678d61-4ae8-4adf-b345-1a197ac8b23c",
+                "resourcePath": "sprites\\border\\border.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "58ba4143-59c9-4266-9a60-690ff0b73fb8",
             "Value": {
                 "id": "0b172978-d5ab-4720-bccf-9f55f7a5b0b1",
