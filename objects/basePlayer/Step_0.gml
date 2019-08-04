@@ -1,3 +1,16 @@
+/// @DnDAction : YoYo Games.Cameras.Get_View_Var
+/// @DnDVersion : 1
+/// @DnDHash : 12C1ACD8
+/// @DnDArgument : "target" "camera_var"
+camera_var = view_get_camera(0);
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 3C01A58B
+/// @DnDArgument : "code" "x = clamp(x,camera_get_view_x(camera_var),camera_get_view_x(camera_var)+camera_get_view_width(camera_var));$(13_10)y = clamp(y,camera_get_view_y(camera_var),camera_get_view_y(camera_var)+camera_get_view_height(camera_var));"
+x = clamp(x,camera_get_view_x(camera_var),camera_get_view_x(camera_var)+camera_get_view_width(camera_var));
+y = clamp(y,camera_get_view_y(camera_var),camera_get_view_y(camera_var)+camera_get_view_height(camera_var));
+
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5FB5E393
