@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "2da336ed-ce95-4376-af9e-e7a2c5253edd",
+            "Value": {
+                "id": "b35148ca-65ec-425a-babc-79ab5b8c9ae3",
+                "resourcePath": "rooms\\CharacterSelect\\CharacterSelect.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2f27a24a-c7c7-43c0-93dd-c7429518659c",
+            "Value": {
+                "id": "b1a4c3a3-7311-4c4f-b720-6adc7d5ad6a7",
+                "resourcePath": "objects\\fourthPlayer\\fourthPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "37209f67-ef3b-448b-8466-689a1bf06204",
             "Value": {
                 "id": "aa61c437-41f5-49fb-bb9c-fa5b48c1b360",
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "5d5f15cd-4cf7-423b-9dd2-e3430ede0f34",
+            "Value": {
+                "id": "4d800b81-3547-4b17-97f9-e181b02b16e2",
+                "resourcePath": "objects\\thirdPlayer\\thirdPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5e4a29d8-fe51-4f30-9cdb-a1049485a721",
             "Value": {
                 "id": "f6f70ab3-0703-4b09-989e-6666b59e117e",
@@ -164,6 +188,14 @@
                 "id": "ea5ee1e6-5032-4104-a91c-8d9ebfa97e5a",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7e0f411c-69c0-4612-b5cd-afbcabaccdfc",
+            "Value": {
+                "id": "75d407ca-3701-4f38-985a-2c573a2c0862",
+                "resourcePath": "objects\\o_characterSelect\\o_characterSelect.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -204,6 +236,14 @@
                 "id": "54e2dd6e-f040-4b52-a5a3-9afa439abb5d",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "bbbffe3b-c94e-4918-9973-dba9ea6d26e6",
+            "Value": {
+                "id": "f198f34a-afd8-4ff2-b2a0-e226d8688572",
+                "resourcePath": "objects\\roomController\\roomController.yy",
+                "resourceType": "GMObject"
             }
         },
         {
