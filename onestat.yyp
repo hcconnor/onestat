@@ -231,18 +231,18 @@
             }
         },
         {
+            "Key": "3ff4ba6c-f4ce-41b1-8cb2-5d5f628b4b54",
+            "Value": {
+                "id": "d5e0d279-908c-4ee0-94ff-fcd57216e176",
+                "resourcePath": "objects\\bulletFire\\bulletFire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4a1ce676-13eb-4457-a82d-9fab7d1d0be5",
             "Value": {
                 "id": "9949fe90-2119-4e3d-8c3b-f0bd33b78c20",
                 "resourcePath": "sprites\\firebull\\firebull.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "57e3e77f-5ef5-48e7-a81d-4d1601ab9282",
-            "Value": {
-                "id": "aa678d61-4ae8-4adf-b345-1a197ac8b23c",
-                "resourcePath": "sprites\\border\\border.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -467,6 +467,14 @@
             "Value": {
                 "id": "8d88c62f-18f9-4203-9502-2f83c47faf9f",
                 "resourcePath": "sprites\\strengthLeft\\strengthLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb186304-6bf6-42a4-9a07-6eeb8e0c76b2",
+            "Value": {
+                "id": "e6e1d519-9be1-4ae3-a8a6-1dfaf6a79f92",
+                "resourcePath": "sprites\\sprite30\\sprite30.yy",
                 "resourceType": "GMSprite"
             }
         },
