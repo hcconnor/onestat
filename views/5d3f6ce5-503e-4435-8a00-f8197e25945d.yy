@@ -6,10 +6,6 @@
     "children": [
         "0927f67d-f7ad-4722-a7b3-51a347cadc78",
         "2cc75c76-6e9a-4a4e-963d-9fe147828f86",
-<<<<<<< HEAD
-=======
-        "0927f67d-f7ad-4722-a7b3-51a347cadc78",
->>>>>>> master
         "a1063c1b-055e-47e7-bb48-15e61fdc85f0"
     ],
     "filterType": "GMRoom",
