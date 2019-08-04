@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": true,
     "configs": [
-        
+        "default"
     ],
     "option_ecma": false,
     "parentProject": {
@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0ab6c76a-575a-456a-8380-94fda3f1a89e",
+            "Value": {
+                "id": "8f75fda3-08cb-4b36-976a-11779ab8961e",
+                "resourcePath": "objects\\secondPlayer\\secondPlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0f972f84-9c5a-45ca-8368-a0f1b29d30e4",
             "Value": {
                 "id": "a1172e0f-5283-4339-ac60-1a46a13ecd06",
@@ -55,11 +63,11 @@
             }
         },
         {
-            "Key": "17530b62-a1f8-48a0-a4d3-f4a923ecaadc",
+            "Key": "25244ce9-14e9-4022-8c63-6135e463b706",
             "Value": {
-                "id": "e6f30bc9-5191-43ac-9c29-88d080e5056f",
-                "resourcePath": "rooms\\CharacterSelect\\CharacterSelect.yy",
-                "resourceType": "GMRoom"
+                "id": "b1732f5c-f58f-4d8c-af6b-32592fff71c3",
+                "resourcePath": "fonts\\font_main\\font_main.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -68,14 +76,6 @@
                 "id": "2a2bf489-92c6-4fbd-aba5-f8da61aa5c92",
                 "resourcePath": "sprites\\theWall\\theWall.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "2c1e3a0b-9482-44e2-bae5-d0868313fa6c",
-            "Value": {
-                "id": "9279a0fb-2427-47c8-ad83-8e2dfcd2a22a",
-                "resourcePath": "views\\2c1e3a0b-9482-44e2-bae5-d0868313fa6c.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -103,19 +103,19 @@
             }
         },
         {
+            "Key": "3f4b7d24-abc7-4328-b792-41a11c48fd1f",
+            "Value": {
+                "id": "051bfd1b-b997-4d5b-a2f6-14e6bd4f99c3",
+                "resourcePath": "objects\\o_menu\\o_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4a1ce676-13eb-4457-a82d-9fab7d1d0be5",
             "Value": {
                 "id": "9949fe90-2119-4e3d-8c3b-f0bd33b78c20",
                 "resourcePath": "sprites\\firebull\\firebull.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "532b658e-e2ea-47f1-9dab-f1c7eda82595",
-            "Value": {
-                "id": "80f6804d-98e0-4adb-bb88-c65849194c15",
-                "resourcePath": "objects\\gameController\\gameController.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -140,6 +140,14 @@
                 "id": "f6f70ab3-0703-4b09-989e-6666b59e117e",
                 "resourcePath": "views\\5e4a29d8-fe51-4f30-9cdb-a1049485a721.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6914d5c6-2e67-4e13-ae5d-e1c59e1a76c0",
+            "Value": {
+                "id": "d237631d-8710-48ec-8f51-cee2a27af8a2",
+                "resourcePath": "sprites\\bg\\bg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,11 +199,11 @@
             }
         },
         {
-            "Key": "b1c248aa-ed31-4203-a8b0-bf1af5a6d76c",
+            "Key": "bf4257fe-2611-4ec3-bd2b-748e44623542",
             "Value": {
-                "id": "2784faf2-8715-46ac-a319-418c1aab1279",
-                "resourcePath": "objects\\ChooseYourPlayer\\ChooseYourPlayer.yy",
-                "resourceType": "GMObject"
+                "id": "931349fb-dc21-4873-b979-0890015f5422",
+                "resourcePath": "views\\bf4257fe-2611-4ec3-bd2b-748e44623542.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -276,14 +284,6 @@
                 "id": "fe0725bf-7624-4024-9abf-9f99dcd452bd",
                 "resourcePath": "views\\e626d188-8a9a-46a2-b144-c76175dd064c.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f16e91d6-ef4f-4bb9-bf41-7379868b9427",
-            "Value": {
-                "id": "4789c3e5-7238-4d3e-aef6-f96d4f59eab1",
-                "resourcePath": "objects\\controlsController\\controlsController.yy",
-                "resourceType": "GMObject"
             }
         },
         {
