@@ -223,14 +223,6 @@
             }
         },
         {
-            "Key": "53932d43-929f-42df-a8eb-818fa081c398",
-            "Value": {
-                "id": "48df4f0f-da12-48db-8466-de7bdba87fc5",
-                "resourcePath": "views\\53932d43-929f-42df-a8eb-818fa081c398.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "58ba4143-59c9-4266-9a60-690ff0b73fb8",
             "Value": {
                 "id": "0b172978-d5ab-4720-bccf-9f55f7a5b0b1",
@@ -604,6 +596,14 @@
                 "id": "b3d5ad2a-0d2f-4811-9ac5-6c1683db2f4c",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa1979f2-e368-4aa4-a0f5-494317d3d2cd",
+            "Value": {
+                "id": "9b16b19e-dc0b-48a6-9304-9cc6d41e86ac",
+                "resourcePath": "views\\fa1979f2-e368-4aa4-a0f5-494317d3d2cd.yy",
+                "resourceType": "GMFolder"
             }
         }
     ],
