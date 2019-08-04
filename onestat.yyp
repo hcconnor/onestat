@@ -343,27 +343,11 @@
             }
         },
         {
-            "Key": "867be840-5636-4a7e-b7c3-e699d73bb931",
-            "Value": {
-                "id": "1ae75b46-ea4a-4db2-8a56-7d6bd0b3370b",
-                "resourcePath": "objects\\fortnite\\fortnite.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "8b2e149d-5157-4831-be73-450c16561660",
             "Value": {
                 "id": "f1ba14fe-249e-4d31-b1b6-ac0a877bcfd7",
                 "resourcePath": "sprites\\luckRight\\luckRight.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8bd0c265-3c0d-4933-8928-f0326c153cce",
-            "Value": {
-                "id": "bd69f572-3da1-42b2-9f0e-a505f15a900c",
-                "resourcePath": "sounds\\fnbb\\fnbb.yy",
-                "resourceType": "GMSound"
             }
         },
         {
