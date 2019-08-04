@@ -2,7 +2,7 @@
     "id": "dd36e3c6-2600-4c61-b5cc-a0c0f087b6a0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "AI",
+    "name": "ChaserAI",
     "eventList": [
         {
             "id": "56f48951-8d2b-4a58-b52c-d7d22acd8c31",
