@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": true,
     "configs": [
-        
+        "default"
     ],
     "option_ecma": false,
     "parentProject": {
@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "25244ce9-14e9-4022-8c63-6135e463b706",
+            "Value": {
+                "id": "b1732f5c-f58f-4d8c-af6b-32592fff71c3",
+                "resourcePath": "fonts\\font_main\\font_main.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "2695dbcb-83e1-4817-a56e-e0e7ca6757e3",
             "Value": {
                 "id": "2a2bf489-92c6-4fbd-aba5-f8da61aa5c92",
@@ -98,7 +106,7 @@
             "Key": "3f4b7d24-abc7-4328-b792-41a11c48fd1f",
             "Value": {
                 "id": "051bfd1b-b997-4d5b-a2f6-14e6bd4f99c3",
-                "resourcePath": "objects\\menu1\\menu1.yy",
+                "resourcePath": "objects\\o_menu\\o_menu.yy",
                 "resourceType": "GMObject"
             }
         },
