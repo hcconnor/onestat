@@ -255,6 +255,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "4fbd02cb-0a39-4e73-96ec-afcef78846ac",
             "Value": {
                 "id": "292052d6-b03e-4433-a55a-865e538ec34d",
@@ -268,6 +269,13 @@
                 "id": "86276fbb-6685-464c-a538-efa24d1937bc",
                 "resourcePath": "sounds\\gun_cockslow\\gun_cockslow.yy",
                 "resourceType": "GMSound"
+=======
+            "Key": "57e3e77f-5ef5-48e7-a81d-4d1601ab9282",
+            "Value": {
+                "id": "aa678d61-4ae8-4adf-b345-1a197ac8b23c",
+                "resourcePath": "sprites\\border\\border.yy",
+                "resourceType": "GMSprite"
+>>>>>>> ba685b09aed3f2d970d676618f7c1f01c07b0c9b
             }
         },
         {
