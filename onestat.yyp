@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2c1e3a0b-9482-44e2-bae5-d0868313fa6c",
+            "Value": {
+                "id": "9279a0fb-2427-47c8-ad83-8e2dfcd2a22a",
+                "resourcePath": "views\\2c1e3a0b-9482-44e2-bae5-d0868313fa6c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2cc75c76-6e9a-4a4e-963d-9fe147828f86",
             "Value": {
                 "id": "8c336450-26ef-4c91-8477-f81ab14b5e6b",
@@ -124,14 +132,6 @@
                 "id": "6c4fc756-7b84-4ae8-87e7-9b689849311a",
                 "resourcePath": "sprites\\Juan\\Juan.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "5d3f6ce5-503e-4435-8a00-f8197e25945d",
-            "Value": {
-                "id": "bb3e6779-2292-4e56-bda6-a07dc577fdd0",
-                "resourcePath": "views\\5d3f6ce5-503e-4435-8a00-f8197e25945d.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
