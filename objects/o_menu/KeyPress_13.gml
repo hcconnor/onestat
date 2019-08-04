@@ -3,20 +3,20 @@
 switch (menu_index) {
 	
 	case 0:
-		
-		show_debug_message("1 Player");
+		global.NumberOfPlayers = 1;
+		room_goto_next()
 		break;
 	case 1:
-		
-		show_debug_message("2 Player");
+		global.NumberOfPlayers = 2;
+		room_goto_next()
 		break;
 	case 2:
-		
-		show_debug_message("3 Player");
+		global.NumberOfPlayers = 3;
+		room_goto_next()
 		break;
 	case 3:
-		
-		show_debug_message("4 Player");
+		global.NumberOfPlayers = 4;
+		room_goto_next()
 		break;
 	case 4:
 		game_end();
