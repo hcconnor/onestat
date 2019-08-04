@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "30d84cb2-5bf3-4f77-a8c3-fabcb3e8609d",
+            "Value": {
+                "id": "f240df03-f9d8-402e-90d4-d94b3c54c01a",
+                "resourcePath": "sounds\\jab\\jab.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "327cb6e7-667a-43f5-ac25-af14f4545f86",
             "Value": {
                 "id": "02f261d9-c197-4201-b40b-4e20fd3b2f94",
@@ -231,11 +239,35 @@
             }
         },
         {
+            "Key": "48d22c5a-0561-47dd-86ad-ef8e6f71e919",
+            "Value": {
+                "id": "bb5ba384-4c4c-4cec-91ad-d60c9081886a",
+                "resourcePath": "sounds\\gun_cockfast\\gun_cockfast.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4a1ce676-13eb-4457-a82d-9fab7d1d0be5",
             "Value": {
                 "id": "9949fe90-2119-4e3d-8c3b-f0bd33b78c20",
                 "resourcePath": "sprites\\firebull\\firebull.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4fbd02cb-0a39-4e73-96ec-afcef78846ac",
+            "Value": {
+                "id": "292052d6-b03e-4433-a55a-865e538ec34d",
+                "resourcePath": "sounds\\punch\\punch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "553abb0e-cc96-43de-a2ec-532f1d681d2a",
+            "Value": {
+                "id": "86276fbb-6685-464c-a538-efa24d1937bc",
+                "resourcePath": "sounds\\gun_cockslow\\gun_cockslow.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -268,6 +300,14 @@
                 "id": "f6f70ab3-0703-4b09-989e-6666b59e117e",
                 "resourcePath": "views\\5e4a29d8-fe51-4f30-9cdb-a1049485a721.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6201d1c6-fa60-485d-b089-2081b6e4c461",
+            "Value": {
+                "id": "1fafe163-85be-44ca-96f3-8641897dac62",
+                "resourcePath": "sounds\\dry_gun\\dry_gun.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -412,6 +452,14 @@
                 "id": "1fc22622-52c8-4bfb-82c7-736b3eaf24dc",
                 "resourcePath": "views\\9ab4b21f-215b-4439-a497-dd2ab4ad9399.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9c7d166f-a3a9-422b-b4c2-294d08ebbed7",
+            "Value": {
+                "id": "8551a583-b226-4169-896a-ee4ac705154c",
+                "resourcePath": "sounds\\MapTheme\\MapTheme.yy",
+                "resourceType": "GMSound"
             }
         },
         {

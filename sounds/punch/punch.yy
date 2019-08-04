@@ -1,8 +1,8 @@
 {
-    "id": "f22fcd6e-8a6a-4362-b39b-a8f08363898f",
+    "id": "4fbd02cb-0a39-4e73-96ec-afcef78846ac",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_menu_switch",
+    "name": "punch",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.65
+    "volume": 1
 }
