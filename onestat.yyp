@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1a916117-2895-4183-96cd-f5603b731910",
+            "Value": {
+                "id": "0c2e07cb-507c-4db2-a243-e24fa1b49d3a",
+                "resourcePath": "objects\\ShooterAI\\ShooterAI.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f68e8b8-636a-45bb-89e2-4fa5f4118b00",
             "Value": {
                 "id": "aee64237-01b5-48cd-9165-cb225cd4b623",
@@ -131,6 +139,14 @@
             "Value": {
                 "id": "2a2bf489-92c6-4fbd-aba5-f8da61aa5c92",
                 "resourcePath": "sprites\\theWall\\theWall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "28a8037f-46bc-45d8-b7d0-49fbb46a3113",
+            "Value": {
+                "id": "3fecc461-0355-4612-bb71-fb5f143ecd05",
+                "resourcePath": "sprites\\sprite28\\sprite28.yy",
                 "resourceType": "GMSprite"
             }
         },
